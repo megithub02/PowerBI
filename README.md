@@ -1,7 +1,6 @@
-
 # Superstore Sales Dashboard
 
-### Dashboard Link :C:\Users\hp\Pictures\Saved Pictures\Screenshot 2024-02-20 234326.png
+### Dashboard Link :![Screenshot 2024-02-21 021511](https://github.com/megithub02/PowerBI/assets/159956172/881201f8-6d6c-431b-8b70-66f60d016852)
 
 ## Objective
 
@@ -29,8 +28,7 @@ for creating new column following DAX expression was written;
         
 
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
-
+![Screenshot 2024-02-21 023041](https://github.com/megithub02/PowerBI/assets/159956172/41a0359b-7cd2-4f34-9bae-db1222752cc5)
         
 - Step 5 : New measure was created to find Avg Ship Day.
 
@@ -54,13 +52,10 @@ for creating new column following DAX expression was written;
 
 # Snapshot of Dashboard (Power BI Service)
 
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
+![Screenshot 2024-02-21 021511](https://github.com/megithub02/PowerBI/assets/159956172/0adbe735-ba65-4962-8d7b-8c8051948fa1)
+
 
  
- # Report Snapshot (Power BI DESKTOP)
-
- 
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
 
 # Insights
 
@@ -92,4 +87,4 @@ Incorporated data analysis techniques, specializing in time series analysis to d
 
         thus, more customers have used 'Online payment mode'.
 # 
-Displaying # Superstore sales dashboard# PowerBI
+Displaying # Superstore sales dashboard
